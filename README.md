@@ -1,2 +1,1 @@
 # VPN Bot
-# VPN Bot
