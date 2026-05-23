@@ -1,2 +1,2 @@
 # VPN Bot
-Add file
+# VPN Bot
